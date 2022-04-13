@@ -364,7 +364,7 @@ Prof. Robert Field
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a{{< sup "+" >}}, N ({{% resource_link eccf1b7b-c47f-6a24-7d1b-f5b4582692f4 "PDF" %}})
+Polyads, a, a{{< sup "\+" >}}, N ({{% resource_link eccf1b7b-c47f-6a24-7d1b-f5b4582692f4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Robert Field

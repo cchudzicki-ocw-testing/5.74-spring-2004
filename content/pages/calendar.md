@@ -365,7 +365,7 @@ Strong and Weak Coupling Limits
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a{{< sup "+" >}}, N
+Polyads, a, a{{< sup "\+" >}}, N
 {{< tdclose >}}
 {{< tdopen >}}
 

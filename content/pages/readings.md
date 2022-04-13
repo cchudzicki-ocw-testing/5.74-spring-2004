@@ -451,7 +451,7 @@ Blum, K. Section 9.3 in _Density Matrix Theory and Applications._ New York, NY: 
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a{{< sup "+" >}}, N  
+Polyads, a, a{{< sup "\+" >}}, N  
  
 {{< tdclose >}}
 {{< tdopen >}}
